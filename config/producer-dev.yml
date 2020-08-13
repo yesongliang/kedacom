@@ -1,9 +1,1 @@
-server:
-  port: 8099
-  servlet:
-    context-path: /producer
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8001/eureka/
 foo: from git
